@@ -1,0 +1,7 @@
+.vs/
+*.ipch
+*.obj
+*.exe
+Debug/
+Release/
+x64/
